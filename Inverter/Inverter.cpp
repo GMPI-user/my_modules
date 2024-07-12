@@ -1,6 +1,5 @@
 #pragma warning(disable : 4996) // "Call to 'std::transform' with parameters that may be unsafe"
 
-#include "./Inverter.h"
 #include <algorithm>
 
 #ifdef _WIN32
